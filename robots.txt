@@ -1,1 +1,1 @@
-Sitemap: https://josegabrielguerrero26.github.io/dsprojects/sitemap.xml
+Sitemap: https://josegabrielguerrero26.github.io/dstemplate/sitemap.xml
